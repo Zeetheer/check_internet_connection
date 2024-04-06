@@ -1,5 +1,3 @@
-import 'dart:ffi';
-
 import 'package:check_internet_connection/check_internet_connection.dart';
 import 'package:test/test.dart';
 

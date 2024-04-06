@@ -1,39 +1,59 @@
-<!-- 
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+# check_internet_connection
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages). 
+A library that check user's internet connection.
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages). 
--->
-
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
-
-## Features
-
-TODO: List what your package can do. Maybe include images, gifs, or videos.
-
-## Getting started
-
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+[![license](https://img.shields.io/github/license/Zeetheer/check_internet_connection)](https://opensource.org/license/bsd-3-clause/)
+[![pub package](https://img.shields.io/pub/v/check_internet_connection)](https://pub.dev/packages/remove)
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder. 
+First of all, import the library:
 
-```dart
-const like = 'sample';
+```
+import 'package:check_internet_connection/check_internet_connection.dart';
 ```
 
-## Additional information
+Check Internet Connection
 
-TODO: Tell users more about the package: where to find more information, how to 
-contribute to the package, how to file issues, what response they can expect 
-from the package authors, and more.
+```
+void NotNone() {
+    print("There's internet!");
+}
+
+void None() {
+    print("There's no internet!");
+}
+
+checkInternectConnectionWithFunctions(NotNone, None);
+```
+
+A Simple Example
+
+```
+import 'package:check_internet_connection/check_internet_connection.dart';
+
+void main() {
+  int number = 0;
+
+  void NotNone() {
+    print("There's internet!");
+    number = 0;
+  }
+
+  void None() {
+    print("There's no internet!");
+    number = 1;
+  }
+
+  checkInternectConnectionWithFunctions(NotNone, None);
+}
+```
+
+Output
+
+```
+// If there is internet
+There's internet!
+// If there is no internet
+There is no internet!
+```
