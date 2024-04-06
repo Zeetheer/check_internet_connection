@@ -1,0 +1,14 @@
+name: check_internet_connection
+description: A starting point for Dart libraries or applications.
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: ^3.4.0-190.1.beta
+
+dependencies:
+  connectivity_plus: ^6.0.1
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.24.0
