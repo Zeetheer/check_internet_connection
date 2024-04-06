@@ -3,13 +3,13 @@
   "packages": [
     {
       "name": "_fe_analyzer_shared",
-      "rootUri": "file:///C:/Users/user/AppData/Local/Pub/Cache/hosted/pub.dev/_fe_analyzer_shared-67.0.0",
+      "rootUri": "file:///C:/Users/user/AppData/Local/Pub/Cache/hosted/pub.dev/_fe_analyzer_shared-64.0.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
       "name": "analyzer",
-      "rootUri": "file:///C:/Users/user/AppData/Local/Pub/Cache/hosted/pub.dev/analyzer-6.4.1",
+      "rootUri": "file:///C:/Users/user/AppData/Local/Pub/Cache/hosted/pub.dev/analyzer-6.2.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -39,21 +39,21 @@
     },
     {
       "name": "collection",
-      "rootUri": "file:///C:/Users/user/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.18.0",
+      "rootUri": "file:///C:/Users/user/AppData/Local/Pub/Cache/hosted/pub.dev/collection-1.17.1",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
     {
       "name": "connectivity_plus",
-      "rootUri": "file:///C:/Users/user/AppData/Local/Pub/Cache/hosted/pub.dev/connectivity_plus-6.0.1",
+      "rootUri": "file:///C:/Users/user/AppData/Local/Pub/Cache/hosted/pub.dev/connectivity_plus-5.0.2",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "2.18"
     },
     {
       "name": "connectivity_plus_platform_interface",
-      "rootUri": "file:///C:/Users/user/AppData/Local/Pub/Cache/hosted/pub.dev/connectivity_plus_platform_interface-2.0.0",
+      "rootUri": "file:///C:/Users/user/AppData/Local/Pub/Cache/hosted/pub.dev/connectivity_plus_platform_interface-1.2.4",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "2.12"
     },
     {
       "name": "convert",
@@ -81,9 +81,9 @@
     },
     {
       "name": "ffi",
-      "rootUri": "file:///C:/Users/user/AppData/Local/Pub/Cache/hosted/pub.dev/ffi-2.1.2",
+      "rootUri": "file:///C:/Users/user/AppData/Local/Pub/Cache/hosted/pub.dev/ffi-2.1.0",
       "packageUri": "lib/",
-      "languageVersion": "3.3"
+      "languageVersion": "3.0"
     },
     {
       "name": "file",
@@ -95,13 +95,13 @@
       "name": "flutter",
       "rootUri": "file:///C:/tools/flutter/packages/flutter",
       "packageUri": "lib/",
-      "languageVersion": "3.3"
+      "languageVersion": "3.0"
     },
     {
       "name": "flutter_web_plugins",
       "rootUri": "file:///C:/tools/flutter/packages/flutter_web_plugins",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.0"
     },
     {
       "name": "frontend_server_client",
@@ -135,9 +135,9 @@
     },
     {
       "name": "js",
-      "rootUri": "file:///C:/Users/user/AppData/Local/Pub/Cache/hosted/pub.dev/js-0.7.1",
+      "rootUri": "file:///C:/Users/user/AppData/Local/Pub/Cache/hosted/pub.dev/js-0.6.7",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "2.19"
     },
     {
       "name": "lints",
@@ -159,21 +159,21 @@
     },
     {
       "name": "material_color_utilities",
-      "rootUri": "file:///C:/Users/user/AppData/Local/Pub/Cache/hosted/pub.dev/material_color_utilities-0.8.0",
+      "rootUri": "file:///C:/Users/user/AppData/Local/Pub/Cache/hosted/pub.dev/material_color_utilities-0.2.0",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "2.13"
     },
     {
       "name": "meta",
-      "rootUri": "file:///C:/Users/user/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.12.0",
+      "rootUri": "file:///C:/Users/user/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.9.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "mime",
-      "rootUri": "file:///C:/Users/user/AppData/Local/Pub/Cache/hosted/pub.dev/mime-1.0.5",
+      "rootUri": "file:///C:/Users/user/AppData/Local/Pub/Cache/hosted/pub.dev/mime-1.0.4",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "2.18"
     },
     {
       "name": "nm",
@@ -201,9 +201,9 @@
     },
     {
       "name": "petitparser",
-      "rootUri": "file:///C:/Users/user/AppData/Local/Pub/Cache/hosted/pub.dev/petitparser-6.0.2",
+      "rootUri": "file:///C:/Users/user/AppData/Local/Pub/Cache/hosted/pub.dev/petitparser-5.4.0",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "2.19"
     },
     {
       "name": "plugin_platform_interface",
@@ -251,7 +251,7 @@
       "name": "sky_engine",
       "rootUri": "file:///C:/tools/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.0"
     },
     {
       "name": "source_map_stack_trace",
@@ -327,9 +327,9 @@
     },
     {
       "name": "vm_service",
-      "rootUri": "file:///C:/Users/user/AppData/Local/Pub/Cache/hosted/pub.dev/vm_service-14.2.0",
+      "rootUri": "file:///C:/Users/user/AppData/Local/Pub/Cache/hosted/pub.dev/vm_service-14.0.0",
       "packageUri": "lib/",
-      "languageVersion": "3.3"
+      "languageVersion": "3.0"
     },
     {
       "name": "watcher",
@@ -338,16 +338,10 @@
       "languageVersion": "3.0"
     },
     {
-      "name": "web",
-      "rootUri": "file:///C:/Users/user/AppData/Local/Pub/Cache/hosted/pub.dev/web-0.5.1",
-      "packageUri": "lib/",
-      "languageVersion": "3.3"
-    },
-    {
       "name": "web_socket_channel",
-      "rootUri": "file:///C:/Users/user/AppData/Local/Pub/Cache/hosted/pub.dev/web_socket_channel-2.4.4",
+      "rootUri": "file:///C:/Users/user/AppData/Local/Pub/Cache/hosted/pub.dev/web_socket_channel-2.4.0",
       "packageUri": "lib/",
-      "languageVersion": "3.3"
+      "languageVersion": "2.15"
     },
     {
       "name": "webkit_inspection_protocol",
@@ -357,9 +351,9 @@
     },
     {
       "name": "xml",
-      "rootUri": "file:///C:/Users/user/AppData/Local/Pub/Cache/hosted/pub.dev/xml-6.5.0",
+      "rootUri": "file:///C:/Users/user/AppData/Local/Pub/Cache/hosted/pub.dev/xml-6.3.0",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "2.19"
     },
     {
       "name": "yaml",
@@ -371,10 +365,10 @@
       "name": "check_internet_connection",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "3.4"
+      "languageVersion": "3.0"
     }
   ],
-  "generated": "2024-04-06T15:08:33.591190Z",
+  "generated": "2024-04-06T15:22:03.753134Z",
   "generator": "pub",
-  "generatorVersion": "3.4.0-190.1.beta"
+  "generatorVersion": "3.0.3"
 }

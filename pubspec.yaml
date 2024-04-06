@@ -4,10 +4,10 @@ version: 1.0.0
 repository: https://github.com/Zeetheer/check_internet_connection
 
 environment:
-  sdk: ^3.4.0-190.1.beta
+  sdk: ^3.0.3
 
 dependencies:
-  connectivity_plus: ^6.0.1
+  connectivity_plus: ^5.0.2
 
 dev_dependencies:
   lints: ^3.0.0
